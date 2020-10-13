@@ -1,0 +1,21 @@
+//bridge-file-version: #3
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "tf:meef_stroganoff",
+			"category": "Equipment"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.cookedFood"
+			},
+			"minecraft:icon": {
+				"texture": "meef_stroganoff"
+			},
+			"minecraft:use_animation": "eat",
+			"minecraft:render_offsets": "stew",
+			"minecraft:display_name": {}
+		}
+	}
+}
