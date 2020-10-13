@@ -1,4 +1,4 @@
-//bridge-file-version: #1
+//bridge-file-version: #3
 {
 	"format_version": [
 		1,
@@ -20,5 +20,9 @@
 			"side": "mangrove_log_side",
 			"down": "mangrove_log_top"
 		}
+	},
+	"tf:towerwood_planks": {
+		"sound": "wood",
+		"textures": "towerwood_planks"
 	}
 }
