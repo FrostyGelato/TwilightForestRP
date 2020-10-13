@@ -10,9 +10,7 @@
 			"minecraft:creative_category": {
 				"parent": "itemGroup.name.miscFood"
 			},
-			"minecraft:icon": {
-				"texture": "maze_wafer"
-			},
+			"minecraft:icon": "maze_wafer",
 			"minecraft:use_animation": "eat",
 			"minecraft:render_offsets": "stew",
 			"minecraft:display_name": {}
