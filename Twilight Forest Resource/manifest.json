@@ -1,0 +1,30 @@
+//bridge-file-version: #1
+{
+	"format_version": 2,
+	"header": {
+		"name": "Twilight Forest",
+		"description": "pack.description",
+		"uuid": "21d270a4-984a-417a-963b-cd11ceda332d",
+		"version": [
+			0,
+			0,
+			1
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "9745e65d-28dd-4f5f-a22f-4aac11cef004",
+			"version": [
+				0,
+				0,
+				1
+			]
+		}
+	]
+}

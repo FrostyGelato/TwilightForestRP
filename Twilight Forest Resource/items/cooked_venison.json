@@ -1,0 +1,19 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.10.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "tf:cooked_venison",
+			"category": "Equipment"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.cookedFood"
+			},
+			"minecraft:icon": "venison_cooked",
+			"minecraft:use_animation": "eat",
+			"minecraft:render_offsets": "meats",
+			"minecraft:display_name": {}
+		}
+	}
+}
