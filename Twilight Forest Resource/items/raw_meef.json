@@ -1,6 +1,6 @@
 //bridge-file-version: #1
 {
-	"format_version": 1.1,
+	"format_version": "1.10.0",
 	"minecraft:item": {
 		"description": {
 			"identifier": "tf:raw_meef",
@@ -10,9 +10,7 @@
 			"minecraft:creative_category": {
 				"parent": "itemGroup.name.rawFood"
 			},
-			"minecraft:icon": {
-				"texture": "meef_raw"
-			},
+			"minecraft:icon": "meef_raw",
 			"minecraft:use_animation": "eat",
 			"minecraft:render_offsets": "meats",
 			"minecraft:display_name": {}

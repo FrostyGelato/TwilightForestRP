@@ -1,6 +1,9 @@
-##bridge-file-version: #6
+##bridge-file-version: #7
 pack.description=Resource Pack for Twilight Forest Bedrock Addon
 item.tf:cooked_venison.name=Cooked Venison
 item.tf:raw_venison.name=Raw Venison
 item.tf:hydra_chop.name=Hydra Chop
 item.tf:maze_wafer.name=Maze Wafer
+item.tf:raw_meef.name=Raw Meef
+item.tf:cooked_meef.name=Cooked Meef
+item.tf:meef_stroganoff.name=Meef Stroganoff

@@ -7,7 +7,7 @@
 			"textures": "textures/items/venison_cooked"
 		},
 		"hydra_chop": {
-			"textures": "textures/items/hydra_chops"
+			"textures": "textures/items/hydra_chop"
 		},
 		"venison_raw": {
 			"textures": "textures/items/venison_raw"
